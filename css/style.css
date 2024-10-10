@@ -8430,7 +8430,7 @@ h1, h2, h3, h4, h5,
   .owl-carousel.home-slider {
     position: relative;
     height: 550px;
-    margin: 5rem;
+    margin-top: 5rem;
     z-index: 0; }
     .owl-carousel.home-slider .slider-item {
       background-size: cover;
